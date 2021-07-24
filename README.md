@@ -7,4 +7,5 @@
 
 ### List of Programs :
 * Implementation of String Manipulation Functions
+* Reverse a String using Pointers
 * Checking if a Sub-String is present in a Given String
