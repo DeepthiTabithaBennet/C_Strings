@@ -6,4 +6,5 @@
 ### Please leave a 🌟 before you fork / clone this repo! 😃
 
 ### List of Programs :
+* Implementation of String Manipulation Functions
 * Checking if a Sub-String is present in a Given String
