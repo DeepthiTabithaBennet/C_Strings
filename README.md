@@ -11,3 +11,4 @@
 * Implementation of String Manipulation Functions
 * Reverse a String using Pointers
 * Checking if a Sub-String is present in a Given String
+* Printing a String in the form of an X
