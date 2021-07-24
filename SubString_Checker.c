@@ -28,7 +28,6 @@ int main() {
 	    }
     }
 
-
     if (count == strlen(a)-1){
 	    printf("Yes");
     }
