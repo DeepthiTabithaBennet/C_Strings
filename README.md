@@ -6,6 +6,7 @@
 ### Please leave a 🌟 before you fork / clone this repo! 😃
 
 ### List of Programs :
+* AlphaNumeric Sequence Printer
 * Anagram Checker
 * Implementation of String Manipulation Functions
 * Reverse a String using Pointers
