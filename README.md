@@ -9,6 +9,7 @@
 * AlphaNumeric Sequence Printer
 * Anagram Checker
 * Implementation of String Manipulation Functions
+* Reverse the Order of Words in a String
 * Reverse a String using Pointers
 * Checking if a Sub-String is present in a Given String
 * Printing a String in the form of an X
