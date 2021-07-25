@@ -11,6 +11,7 @@
 * Arranging Strings in Ascending or Descending Order
 * Implementation of String Manipulation Functions
 * Counting the Number of WhiteSpaces in a String
+* Counting the Number of Words in a String with Two or More Vowels
 * Removing the Duplicate Characters in an input String
 * Replace Every Character in a String with it's Next Character
 * Replace Every Character in a String with it's Previous Character
