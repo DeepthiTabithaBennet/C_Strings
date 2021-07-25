@@ -10,8 +10,17 @@ int main(){
 	int len = strlen(ch);
 	
 	for (i = 0; i < len; i++){
-		if (!(ch[i] == ' ')){
+		if (!(ch[i] == ' ' || ch[i] == 'z' || ch[i] == 'Z')){
 			printf("%c", (ch[i] + 1));
+		}
+		else if (ch[i] == 'z'){
+			printf("a");
+		}
+		else if (ch[i] == 'Z'){
+			printf("A");
+		}
+		else{
+			printf(" ");
 		}
 	}
 
