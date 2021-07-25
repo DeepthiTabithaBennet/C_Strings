@@ -10,6 +10,7 @@
 * Anagram Checker
 * Arranging Strings in Ascending or Descending Order
 * Implementation of String Manipulation Functions
+* Removing the Duplicate Characters in an input String
 * Reverse the Order of Words in a String
 * Reverse a String using Pointers
 * Checking if a Sub-String is present in a Given String
