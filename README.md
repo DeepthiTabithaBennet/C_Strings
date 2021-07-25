@@ -18,4 +18,5 @@
 * Reverse the Order of Words in a String
 * Reverse a String using Pointers
 * Checking if a Sub-String is present in a Given String
+* Computing the Total of the Digits found in a Line of Characters
 * Printing a String in the form of an X
