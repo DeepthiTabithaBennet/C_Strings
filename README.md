@@ -12,7 +12,8 @@
 * Implementation of String Manipulation Functions
 * Counting the Number of WhiteSpaces in a String
 * Removing the Duplicate Characters in an input String
-* Replace Every Character in a String with it's next Character
+* Replace Every Character in a String with it's Next Character
+* Replace Every Character in a String with it's Previous Character
 * Reverse the Order of Words in a String
 * Reverse a String using Pointers
 * Checking if a Sub-String is present in a Given String
