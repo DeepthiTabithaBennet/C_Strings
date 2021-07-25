@@ -8,6 +8,7 @@
 ### List of Programs :
 * AlphaNumeric Sequence Printer
 * Anagram Checker
+* Arranging Strings in Ascending or Descending Order
 * Implementation of String Manipulation Functions
 * Reverse the Order of Words in a String
 * Reverse a String using Pointers
