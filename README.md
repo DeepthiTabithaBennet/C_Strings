@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/C-050F2C?style=for-the-badge&logo=C&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white" height="30">
 
 
 ## C_Strings
